@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Balanin493_Lab5_Map</string>
+    <string name="base_url">http://tilemap.spbcoit.ru:7000</string>
+    <string name="dbName">MapDB</string>
+
+
+    <string-array name="overlay">
+        <item>Ничего</item>
+        <item>Реки</item>
+        <item>Береговые линии</item>
+        <item>Автомобильные дороги</item>
+        <item>Железные дороги</item>
+    </string-array>
 </resources>

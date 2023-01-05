@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Users/Eduard/AndroidStudioProjects/Balanin493_Lab5_Map/app/src/main/res/layout/activity_main.xml" value="0.2608695652173913" />
         <entry key="..\:/Users/Eduard/AndroidStudioProjects/Balanin493_Lab5_Map/app/src/main/res/layout/activity_map.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/Eduard/AndroidStudioProjects/Balanin493_Lab5_Map/app/src/main/res/layout/activity_settings.xml" value="0.33" />
+        <entry key="..\:/Users/Eduard/AndroidStudioProjects/Balanin493_Lab5_Map/app/src/main/res/layout/settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Eduard/AndroidStudioProjects/Balanin493_Lab5_Map/app/src/main/res/layout/settings_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Eduard/AndroidStudioProjects/Balanin493_Lab5_Map/app/src/main/res/menu/settings_menu.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
